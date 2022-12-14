@@ -1,0 +1,20 @@
+
+.nav{
+   margin: 0 20px;
+}
+
+a{
+    color: #9b9b9b;
+}
+
+.link{
+    text-decoration: none;
+    padding: 10px;
+    color: aliceblue;
+    font-size: large;
+}
+
+.link:hover{
+    color: #9b9b9b;
+    transition: all ease 0.3s;
+}
